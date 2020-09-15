@@ -5,7 +5,7 @@ module MoviesHelper
   end
   
   def selected_rating?(rating)
-    return true if params[:ratings].nil?
-    params[:ratings].include?rating
+    return true if session[:ratings].nil?
+    session[:ratings].include?rating
   end
 end
