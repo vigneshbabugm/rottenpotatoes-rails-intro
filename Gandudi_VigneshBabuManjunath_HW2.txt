@@ -1,0 +1,5 @@
+Heroku App Link:
+https://intense-plateau-06370.herokuapp.com/
+
+Github Link:
+https://github.com/vigneshbabugm/rottenpotatoes-rails-intro
